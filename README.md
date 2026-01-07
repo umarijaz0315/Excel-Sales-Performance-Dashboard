@@ -17,11 +17,7 @@ This Excel-based **Sales Performance Dashboard** was developed to transform raw 
 - **Data Visualization & Dashboarding**
 - **Business Reporting & Decision Support**
 
-### Screenshots
-_Add screenshots of your dashboard here for visual demonstration:_
 
-![Dashboard Screenshot 1](screenshots/dashboard1.png)  
-![Dashboard Screenshot 2](screenshots/dashboard2.png)
 
 ### How to Use
 1. Open the `Excel-Sales-Dashboard.xlsx` file in Microsoft Excel (2016 or later recommended).  
@@ -33,7 +29,7 @@ This project demonstrates the ability to **turn raw data into actionable insight
 
 ---
 
-**Author:** [Your Name]  
-**LinkedIn:** [Your LinkedIn Profile URL]  
-**GitHub:** [Your GitHub Repository URL]
+**Author:** [Umar Ijaz]  
+**LinkedIn:** [https://www.linkedin.com/in/umar-ijaz123]  
+
 
